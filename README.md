@@ -1,2 +1,2 @@
 # tkGraphics
-a graphics packaged for designing GUIs in python
+a graphics package for designing GUIs in python
